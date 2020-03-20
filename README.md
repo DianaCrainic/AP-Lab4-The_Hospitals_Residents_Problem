@@ -19,7 +19,7 @@ This repo contains:
 4. Verify if the matching produced by the algorithm is stable.
 
 
-##Console output:
+## Console output:
 
 Compulsory:
 Residents: R0, R1, R2, R3
