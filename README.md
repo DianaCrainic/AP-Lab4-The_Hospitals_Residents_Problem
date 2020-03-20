@@ -22,7 +22,7 @@ This repo contains:
 ## Console output:
 
   Compulsory:
-  Residents: R0, R1, R2, R3
+  Residents: R0, R1, R2, R3;
   Hospitals: H0(c:1), H1(c:2), H2(c:2)
 
   List of Residents: [R0, R1, R2, R3]
