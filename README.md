@@ -27,12 +27,16 @@ This repo contains:
   List of Residents: [R0, R1, R2, R3]
   
   TreeSet of Hospitals: [H0(c:1), H1(c:2), H2(c:2)]
+  
   TreeMap created: {H0(c:1)=[R3, R0, R1, R2], H1(c:2)=[R0, R2, R1], H2(c:2)=[R0, R1, R3]}
+  
   HashMap created: {R3=[H0(c:1), H2(c:2)], R0=[H0(c:1), H1(c:2), H2(c:2)], R1=[H0(c:1), H1(c:2), H2(c:2)], R2=[H0(c:1), H1(c:2)]}
+
 
   Residents who find acceptable H0 and H2: [R0, R1, R3]
   
   The hospitals that have R0 as their top preference: [H1(c:2), H2(c:2)]
+
 
   Optional:
 
